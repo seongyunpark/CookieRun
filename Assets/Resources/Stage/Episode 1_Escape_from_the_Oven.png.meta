@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: df48f372922db3642874e7ba2afbd7bc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Episode 1_Escape_from_the_Oven_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4383
+        width: 568
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1588.4769, y: 2033.0029}
+        - {x: -1588.4769, y: 2350.1694}
+        - {x: -1023.2293, y: 2350.1694}
+        - {x: -1023.2293, y: 2033.0029}
+      - - {x: -1017.02155, y: 2034.1597}
+        - {x: -1017.02155, y: 2350.3286}
+        - {x: -157.15564, y: 2350.3286}
+        - {x: -157.15564, y: 2034.1597}
+      - - {x: -1590.0107, y: 1696.374}
+        - {x: -1590.0107, y: 2013.8379}
+        - {x: -972.9509, y: 2013.8379}
+        - {x: -972.9509, y: 1696.374}
+      - - {x: -967.96454, y: 1696.374}
+        - {x: -967.96454, y: 2013.4224}
+        - {x: -108.236084, y: 2013.4224}
+        - {x: -108.236084, y: 1696.374}
+      - - {x: -1590.0107, y: 1359.7959}
+        - {x: -1590.0107, y: 1677.2598}
+        - {x: -1000.7913, y: 1677.2598}
+        - {x: -1000.7913, y: 1359.7959}
+      - - {x: -997.2133, y: 1358.4651}
+        - {x: -997.2133, y: 1677.845}
+        - {x: -203.568, y: 1677.845}
+        - {x: -203.568, y: 1358.4651}
+      - - {x: -198.95593, y: 1357.6965}
+        - {x: -198.95593, y: 1677.4604}
+        - {x: 661.1787, y: 1677.4604}
+        - {x: 661.1787, y: 1357.6965}
+      - - {x: 663.78345, y: 1359.1455}
+        - {x: 663.78345, y: 1677.5415}
+        - {x: 1523.4175, y: 1677.5415}
+        - {x: 1523.4175, y: 1359.1455}
+      - - {x: -1590.3082, y: 1020.44653}
+        - {x: -1590.3082, y: 1341.1045}
+        - {x: -1014.7809, y: 1341.1045}
+        - {x: -1014.7809, y: 1020.44653}
+      - - {x: -1011.77295, y: 1021.7871}
+        - {x: -1011.77295, y: 1341.0994}
+        - {x: -472.802, y: 1341.0994}
+        - {x: -472.802, y: 1021.7871}
+      - - {x: -1590.1129, y: 685.29004}
+        - {x: -1590.1129, y: 1003.05054}
+        - {x: -1021.62317, y: 1003.05054}
+        - {x: -1021.62317, y: 685.29004}
+      - - {x: -1018.55304, y: 684.7783}
+        - {x: -1018.55304, y: 1004.5857}
+        - {x: -277.11145, y: 1004.5857}
+        - {x: -277.11145, y: 684.7783}
+      - - {x: -272.50623, y: 685.29004}
+        - {x: -272.50623, y: 1004.074}
+        - {x: 455.63135, y: 1004.074}
+        - {x: 455.63135, y: 685.29004}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac898a9dd1e25a4cb444305334bd685
+      internalID: -302001627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Episode 1_Escape_from_the_Oven_1
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 4384
+        width: 859
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c6a69e3f145974789749f38a93b56d
+      internalID: -558325769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Episode 1_Escape_from_the_Oven_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4047
+        width: 616
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a3dda3737e5fa49b554dea712e7264
+      internalID: -39690626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Episode 1_Escape_from_the_Oven_6
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 4047
+        width: 860
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d0754367bb425419b1730266b28434
+      internalID: 860889002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Episode 1_Escape_from_the_Oven_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3710
+        width: 589
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977cde874ca345d47ae4ac5ab3f389c4
+      internalID: -732439943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Episode 1_Escape_from_the_Oven_11
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 3709
+        width: 795
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61592bdb9ab797a4a9ee14d9a04fa079
+      internalID: 151106199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Episode 1_Escape_from_the_Oven_12
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 3709
+        width: 859
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e896ec419b6f22340838d778117888e7
+      internalID: 596091382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Episode 1_Escape_from_the_Oven_13
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 3709
+        width: 861
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba4952b6aaa05e41b55ef4ffbd6c379
+      internalID: -1271022367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Episode 1_Escape_from_the_Oven_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3372
+        width: 577
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4653b5a49912494889586665ed91de7
+      internalID: -850045278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Episode 1_Escape_from_the_Oven_16
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 3372
+        width: 538
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a0217fa5a6a3e4980fbd81d07e8aac
+      internalID: 1272040872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Episode 1_Escape_from_the_Oven_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3035
+        width: 570
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f95a502e16698f4ebfdc64a60c66460
+      internalID: 1904329934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Episode 1_Escape_from_the_Oven_21
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 3036
+        width: 742
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96f160292aa7ca44a01aa5dfe9bb763
+      internalID: 118550577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Episode 1_Escape_from_the_Oven_22
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 3035
+        width: 729
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b122d447672a63b4685da9871ab77cc9
+      internalID: 1577536086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Episode 1_Escape_from_the_Oven_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2700
+        width: 600
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac134a9cad4d4b4aacdb637a6510c4e
+      internalID: -717093363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Episode 1_Escape_from_the_Oven_26
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 2700
+        width: 589
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccb8dc408359e54db693b280a786121
+      internalID: -367517842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Episode 1_Escape_from_the_Oven_27
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 2699
+        width: 689
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8464e93cf66967d4b95f45a5bf36bddf
+      internalID: -1177174533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Episode 1_Escape_from_the_Oven_28
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 2703
+        width: 597
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51569c260d605ef4b9994e5892c8595c
+      internalID: -843104393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Episode 1_Escape_from_the_Oven_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2364
+        width: 600
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363757acb1de1084b883623a8043c7a7
+      internalID: -34636365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Episode 1_Escape_from_the_Oven_31
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 2361
+        width: 598
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ae23268a4085f4e994dcec42790383
+      internalID: -314748092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Episode 1_Escape_from_the_Oven_32
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 2362
+        width: 600
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fef51c8fa7ef2249b1070afec52a242
+      internalID: -358611302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Episode 1_Escape_from_the_Oven_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2024
+        width: 573
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be146b497b38e24f8e031e0b6d30655
+      internalID: 1425124138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Episode 1_Escape_from_the_Oven_36
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 2021
+        width: 861
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ecda3c66fe20345863a4da52f9ddd7
+      internalID: 98441967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Episode 1_Escape_from_the_Oven_40
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1660
+        width: 600
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601ee62043ed0894697367ce50af855a
+      internalID: 1418113617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Episode 1_Escape_from_the_Oven_41
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1679
+        width: 600
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474630180bd684c4f8c127f53eacc72a
+      internalID: 1468848172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Episode 1_Escape_from_the_Oven_42
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 1674
+        width: 600
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ac960904424b74d83c3f04635f0d25
+      internalID: -1437101345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Episode 1_Escape_from_the_Oven_43
+      rect:
+        serializedVersion: 2
+        x: 2546
+        y: 1032
+        width: 600
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507250755194f33418e7b6844bd2840c
+      internalID: 154430901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Episode 1_Escape_from_the_Oven_45
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1306
+        width: 600
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d033cdf070b0e40817c27d3436bc93
+      internalID: -507088625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Episode 1_Escape_from_the_Oven_46
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1361
+        width: 600
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdb9e434fa34d249a80a50a7873cbbf
+      internalID: -685540958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Episode 1_Escape_from_the_Oven_47
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 998
+        width: 600
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687c99d8399959b48bbc43953fc30a6c
+      internalID: -1565280002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Episode 1_Escape_from_the_Oven_48
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1021
+        width: 600
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e478aeec5008743b726f499d0e9026
+      internalID: -337910990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Episode 1_Escape_from_the_Oven_49
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1025
+        width: 600
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ef61fc675ac674290c3e8f6d53b385
+      internalID: -1676237115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Episode 1_Escape_from_the_Oven_50
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 646
+        width: 600
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa15ca587ecf7684a83232804626c0b7
+      internalID: -1062668821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Episode 1_Escape_from_the_Oven_51
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 660
+        width: 600
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda9ea1b958cb054692b9c09c6c6f0f2
+      internalID: 1869204948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Episode 1_Escape_from_the_Oven_52
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 0
+        width: 600
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e32836444ecce47845f68975ba28b7
+      internalID: -464081951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Episode 1_Escape_from_the_Oven_55
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 322
+        width: 600
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4937fe7415aac642a406f6caa6e6a30
+      internalID: 1260514015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Episode 1_Escape_from_the_Oven_56
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 331
+        width: 600
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009c3af26d7cfbd49ba34c255bbb2ab0
+      internalID: -437634802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Episode 1_Escape_from_the_Oven_57
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 0
+        width: 600
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a831762a2aed04da78c448dd565178
+      internalID: -840018419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Episode 1_Escape_from_the_Oven_58
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 336
+        width: 600
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d7cad30ef30a64a806b7354bf77b0b
+      internalID: -1126187713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Episode 1_Escape_from_the_Oven_59
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 600
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458f761749b347741bf6bd36069d1409
+      internalID: -442832307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Episode 1_Escape_from_the_Oven_8: 394203663
+      Episode 1_Escape_from_the_Oven_46: -685540958
+      Episode 1_Escape_from_the_Oven_39: -1285950649
+      Episode 1_Escape_from_the_Oven_7: 121464529
+      Episode 1_Escape_from_the_Oven_6: 860889002
+      Episode 1_Escape_from_the_Oven_57: -840018419
+      Episode 1_Escape_from_the_Oven_53: 598618110
+      Episode 1_Escape_from_the_Oven_23: -1397770085
+      Episode 1_Escape_from_the_Oven_41: 1468848172
+      Episode 1_Escape_from_the_Oven_19: 2033960804
+      Episode 1_Escape_from_the_Oven_44: -1605825453
+      Episode 1_Escape_from_the_Oven_4: 761697319
+      Episode 1_Escape_from_the_Oven_27: -1177174533
+      Episode 1_Escape_from_the_Oven_36: 98441967
+      Episode 1_Escape_from_the_Oven_1: -558325769
+      Episode 1_Escape_from_the_Oven_45: -507088625
+      Episode 1_Escape_from_the_Oven_26: -367517842
+      Episode 1_Escape_from_the_Oven_51: 1869204948
+      Episode 1_Escape_from_the_Oven_50: -1062668821
+      Episode 1_Escape_from_the_Oven_28: -843104393
+      Episode 1_Escape_from_the_Oven_48: -337910990
+      Episode 1_Escape_from_the_Oven_5: -39690626
+      Episode 1_Escape_from_the_Oven_25: -717093363
+      Episode 1_Escape_from_the_Oven_17: -676295142
+      Episode 1_Escape_from_the_Oven_33: -460967224
+      Episode 1_Escape_from_the_Oven_29: 1988026388
+      Episode 1_Escape_from_the_Oven_14: 201608319
+      Episode 1_Escape_from_the_Oven_43: 154430901
+      Episode 1_Escape_from_the_Oven_54: -1478478843
+      Episode 1_Escape_from_the_Oven_32: -358611302
+      Episode 1_Escape_from_the_Oven_9: 117636789
+      Episode 1_Escape_from_the_Oven_12: 596091382
+      Episode 1_Escape_from_the_Oven_15: -850045278
+      Episode 1_Escape_from_the_Oven_24: -816526312
+      Episode 1_Escape_from_the_Oven_30: -34636365
+      Episode 1_Escape_from_the_Oven_3: 304624668
+      Episode 1_Escape_from_the_Oven_0: -302001627
+      Episode 1_Escape_from_the_Oven_52: -464081951
+      Episode 1_Escape_from_the_Oven_35: 1425124138
+      Episode 1_Escape_from_the_Oven_16: 1272040872
+      Episode 1_Escape_from_the_Oven_49: -1676237115
+      Episode 1_Escape_from_the_Oven_10: -732439943
+      Episode 1_Escape_from_the_Oven_40: 1418113617
+      Episode 1_Escape_from_the_Oven_37: -993446700
+      Episode 1_Escape_from_the_Oven_55: 1260514015
+      Episode 1_Escape_from_the_Oven_47: -1565280002
+      Episode 1_Escape_from_the_Oven_18: -2011792988
+      Episode 1_Escape_from_the_Oven_59: -442832307
+      Episode 1_Escape_from_the_Oven_2: -1869705965
+      Episode 1_Escape_from_the_Oven_31: -314748092
+      Episode 1_Escape_from_the_Oven_34: -1027843467
+      Episode 1_Escape_from_the_Oven_42: -1437101345
+      Episode 1_Escape_from_the_Oven_56: -437634802
+      Episode 1_Escape_from_the_Oven_58: -1126187713
+      Episode 1_Escape_from_the_Oven_22: 1577536086
+      Episode 1_Escape_from_the_Oven_11: 151106199
+      Episode 1_Escape_from_the_Oven_20: 1904329934
+      Episode 1_Escape_from_the_Oven_38: 1097049481
+      Episode 1_Escape_from_the_Oven_21: 118550577
+      Episode 1_Escape_from_the_Oven_13: -1271022367
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

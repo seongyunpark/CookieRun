@@ -1,0 +1,1296 @@
+fileFormatVersion: 2
+guid: e6a92c47315de6c41aff7f17a359f16c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 272
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Brave_Cookie_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1361.6666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810a3f8a3e8895c42ad7882a0142a5c3
+      internalID: -2006184055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1361.6666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e01ed80249a02e4cb36e5788cb9eed7
+      internalID: -704451534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_2
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1361.6666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4850fc232740c459e80291134263fd
+      internalID: -1715214219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_3
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1361.6666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ba88121e828f34faae9140cdf82f29
+      internalID: -355172228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_4
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1361.6666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723739d8d12d074429e9cb1f625983ec
+      internalID: 618889642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_5
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1361.6666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162643b57cfd42c43bc63146831b9b99
+      internalID: 1396537701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_6
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1361.6666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c76bc86b17b1347b62fcaa569bf134
+      internalID: -632898397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_7
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1361.6666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f8ddffd275ec5468148c0751c52a8a
+      internalID: 1866846016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_8
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1361.6666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4caf6947abfbdfd4d9f72d47e6bda572
+      internalID: 711633281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_9
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 1361.6666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370af92bdeab70f4c8ff6c14ddf93eb7
+      internalID: -1965020357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_10
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1361.6666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b98d21ffdcc7a46b03378fa6cbc600
+      internalID: 946297816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1089.6666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4e987e54c06254bb43c64aeb3b0e72
+      internalID: 1421542952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_12
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1089.6666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10410907e18dee8439ed4adb534fc3ae
+      internalID: 1159332129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_13
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1089.6666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e48af41a3f9bd4eae6db7a30c9d2b9
+      internalID: 941588513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_14
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1089.6666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2933f9644727834a8a740b08a065792
+      internalID: -971553720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_15
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1089.6666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8073b2d91755dbb4986e5759b126845d
+      internalID: 1429373383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_16
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1089.6666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f092921cc97adaa4fac9ffb04ef44073
+      internalID: 2082958248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_17
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1089.6666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c4e289303655245b58874ea5d50e83
+      internalID: -116990219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_18
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1089.6666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7637d72d2d7b22438dbf09af12cfded
+      internalID: 504792143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 817.6666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e18741f5f91133489983f4439411ee9
+      internalID: 1938227998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_23
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 817.6666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165c455179abfb64d9817903f6e7e6b1
+      internalID: -1267436916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_24
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 817.6666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d573f7bf6347914e9dfba0f58a04d46
+      internalID: -1967519338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_25
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 817.6666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9e31822121f5041800b68ab68429f3
+      internalID: -424642204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_26
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 817.6666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d172ffc7a0ae18148af25dfa923ae356
+      internalID: -2011063846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_27
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 817.6666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f344be1418c4e1945ab4d66b4b7be5c1
+      internalID: -1498383785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_28
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 817.6666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da8cc6aab11d3b48859bb4a40f7db22
+      internalID: 166494994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_29
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 817.6666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830c8c068edb26c409b771c70a6bb1ad
+      internalID: 310494144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_30
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 817.6666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c097384c1ab75e3428a51959e9428178
+      internalID: -1120817855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_33
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 545.6666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f2b0e5b94cdba43ba281c3f7b2d663
+      internalID: 698300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_34
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 545.6666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cd31061101b28488b6bc7cba1b7672
+      internalID: 698123760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_35
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 545.6666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1d3a4c2a12adb4f876944bd5831484
+      internalID: -453444633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_36
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 545.6666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4935ad6a18dd346b92e0a03718395c
+      internalID: -552679829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_37
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 545.6666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76b0b845de3254479d61a822ec549d4
+      internalID: 1634881630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_38
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 545.6666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb5eb1be482f594480d3d346a5d3f46
+      internalID: -401108719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_39
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 545.6666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b312e1f0ad818e4dbf1d758de83f8be
+      internalID: 989708708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_40
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 545.6666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ddfda0b1e473949a8ec56010cc522c
+      internalID: -762451198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 273.66666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da025e3499801a49ac9d9c9ffd604d9
+      internalID: -543709335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_42
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 273.66666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4fded050327614399b20016540442b
+      internalID: -2047740323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_44
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 273.66666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0524426200c1f0549b08c387cf56d4b6
+      internalID: -1409429207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_45
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 273.66666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec0c4c62ccc7fd469db5faef571c5ea
+      internalID: -2140516902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_46
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 273.66666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d850492f556c647af0e717a5fb09cf
+      internalID: 994600925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_47
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 273.66666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c392245e37006c4dbac9647f2d87704
+      internalID: 461062074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_48
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 273.66666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0289e1702d96f77458be9e2851c90bc7
+      internalID: 1130923414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_49
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 273.66666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f838f5183f8b3ed4f8deec810e626801
+      internalID: -2113131373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_50
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 273.66666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889d74469eafd6749ac6ecebd464560e
+      internalID: -817667175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.6666565
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bbc554b74242443a0c9a57e8f274ad
+      internalID: -909395204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_52
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1.6666565
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56be2d655a95ab47a6925c3101ae696
+      internalID: 2097692832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_53
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1.6666565
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f0c8bda0bfd2148be1ada2a2b7e07d
+      internalID: 990475794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_55
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1.6666565
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610023d668a5d9b4f99ecdc3b7886f15
+      internalID: 522950144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 545.6666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c987cfa19df5a4c976134bd01502a9
+      internalID: 861115614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_32
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 545.6666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b2205c32599b74f9beb733723ff103
+      internalID: 1340351197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_43
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 273.66666
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3363bdec9f5fa4cb1e0ee21a16ecdc
+      internalID: 1740142432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brave_Cookie_54
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1.6666565
+        width: 272.18182
+        height: 272.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c7528b908d5ff498ca82b4729b24c4
+      internalID: 1957545582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Brave_Cookie_49: -2113131373
+      Brave_Cookie_56: -467378632
+      Brave_Cookie_10: 946297816
+      Brave_Cookie_36: -552679829
+      Brave_Cookie_24: -1967519338
+      Brave_Cookie_47: 461062074
+      Brave_Cookie_32: 1340351197
+      Brave_Cookie_54: 1957545582
+      Brave_Cookie_50: -817667175
+      Brave_Cookie_34: 698123760
+      Brave_Cookie_38: -401108719
+      Brave_Cookie_41: -543709335
+      Brave_Cookie_20: -981584936
+      Brave_Cookie_7: 1866846016
+      Brave_Cookie_13: 941588513
+      Brave_Cookie_33: 698300324
+      Brave_Cookie_15: 1429373383
+      Brave_Cookie_14: -971553720
+      Brave_Cookie_11: 1421542952
+      Brave_Cookie_52: 2097692832
+      Brave_Cookie_58: -973199071
+      Brave_Cookie_16: 2082958248
+      Brave_Cookie_9: -1965020357
+      Brave_Cookie_43: 1740142432
+      Brave_Cookie_28: 166494994
+      Brave_Cookie_22: 1938227998
+      Brave_Cookie_3: -355172228
+      Brave_Cookie_39: 989708708
+      Brave_Cookie_45: -2140516902
+      Brave_Cookie_0: -2006184055
+      Brave_Cookie_53: 990475794
+      Brave_Cookie_25: -424642204
+      Brave_Cookie_5: 1396537701
+      Brave_Cookie_2: -1715214219
+      Brave_Cookie_51: -909395204
+      Brave_Cookie_4: 618889642
+      Brave_Cookie_12: 1159332129
+      Brave_Cookie_48: 1130923414
+      Brave_Cookie_46: 994600925
+      Brave_Cookie_60: -2135315599
+      Brave_Cookie_29: 310494144
+      Brave_Cookie_19: 1665087096
+      Brave_Cookie_26: -2011063846
+      Brave_Cookie_37: 1634881630
+      Brave_Cookie_42: -2047740323
+      Brave_Cookie_57: -2057162050
+      Brave_Cookie_27: -1498383785
+      Brave_Cookie_8: 711633281
+      Brave_Cookie_55: 522950144
+      Brave_Cookie_44: -1409429207
+      Brave_Cookie_17: -116990219
+      Brave_Cookie_31: 861115614
+      Brave_Cookie_18: 504792143
+      Brave_Cookie_35: -453444633
+      Brave_Cookie_23: -1267436916
+      Brave_Cookie_40: -762451198
+      Brave_Cookie_21: 1955412429
+      Brave_Cookie_6: -632898397
+      Brave_Cookie_30: -1120817855
+      Brave_Cookie_59: 366757563
+      Brave_Cookie_1: -704451534
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

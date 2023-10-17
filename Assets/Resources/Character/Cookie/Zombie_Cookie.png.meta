@@ -1,0 +1,1472 @@
+fileFormatVersion: 2
+guid: a77b0601219de634899bbca22cd765cb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zombie_Cookie_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1614
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce3bc813d59ca347878d77d8cde0ec9
+      internalID: 727203549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_1
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1614
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5608637528ce94caecb5f22322c97d
+      internalID: 951590882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_2
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1614
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af150684e731834cba9518ed4fa5f0c
+      internalID: -1173117326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_3
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1614
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06edd966a73adaa42b68cd5db935aae9
+      internalID: -363891077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_4
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 1614
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef722cb4549c76245a7c40fa9ce64965
+      internalID: 1878146867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_5
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1614
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db669416d3772849b0fde5f2ca65f6d
+      internalID: -965297292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_6
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1614
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2949b2eeaae77e44807530670b1811d
+      internalID: 2059640081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_7
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 1614
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8563c86e692f58f429da013d53b6c74a
+      internalID: -2124361855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_8
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 1614
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3936eeac7e59c42b119e95bc1799cf
+      internalID: 1862053993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_9
+      rect:
+        serializedVersion: 2
+        x: 2908
+        y: 1614
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2b06d71f8fdcc42ba7331145007f7d
+      internalID: -1023818148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_10
+      rect:
+        serializedVersion: 2
+        x: 3230
+        y: 1614
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500be30ca9c10bc44afcc7520086ad14
+      internalID: -1643884289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_11
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 1614
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bec30147e9b524099757d43c262d92
+      internalID: -1259087807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_12
+      rect:
+        serializedVersion: 2
+        x: 3874
+        y: 1614
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9987803dbb3f6dd45bf0c1c662a4d802
+      internalID: 218473105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1292
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaac3d4d61d4b2846bd1df3de5b2134b
+      internalID: 1672178484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_16
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1292
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb03c01b3840a114bb6afffe1d729b72
+      internalID: -548131366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_17
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1292
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4276992a6cc28e4ea191dd8338913ea
+      internalID: -973849495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_18
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1292
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c497b15945171d845ba07c1849780df8
+      internalID: -800139091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_19
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 1292
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc163fb13a4b9124383e62f33b4d5ec2
+      internalID: 1017721024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_20
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1292
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d478ed68244d2bd4791736f82c255cfc
+      internalID: 605491482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_21
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1292
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb25eecfa1a2a14189cceb09c90ec36
+      internalID: 1810570401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_22
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 1292
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c723069b4ddf34db921353cc1e81fc
+      internalID: 1002695504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 970
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdef4e01a085a314cabc8e5c4796ab71
+      internalID: 813551981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_31
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 970
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfb82c1d18cb7b4a83a1c4cfe3e5d97
+      internalID: 429599455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_32
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 970
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f930db2a425d9294fbe48c4a15fe22cd
+      internalID: -1039092811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_33
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 970
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea311eaea9485f4687fdb113b9ed9c0
+      internalID: -379734441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_34
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 970
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af08b16f5d2b29143bc3fee3b51fef29
+      internalID: 899570995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_35
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 970
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d501c60ba224b4040b6a87e5ea83284d
+      internalID: -1471657675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_36
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 970
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74030b1efbdfc54409d24350bce034a0
+      internalID: 92043583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_37
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 970
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63be5b6edfacb0d4cbed0abc48d4f0ce
+      internalID: -1307334757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_38
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 970
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1dc44cba299154197b106dfc32d22d
+      internalID: -1849285587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_45
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 648
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7062d733a62b7194194b057fe4f8bcb3
+      internalID: 392872626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_46
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 648
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd79d2eae256254b99d4e763d53379d
+      internalID: -2031798705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_47
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 648
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ad0b26531620b48b817b50161e252a
+      internalID: 964284308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_48
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 648
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5ad9bea53cd9740bc9c42069af86c4
+      internalID: -640922126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_49
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 648
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9acd5672576e14a91b633a59f1d753
+      internalID: -1353740047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_50
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 648
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8503cb4c6853f48b84045def4ddc1b
+      internalID: 1578657452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_51
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 648
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b699a906dc61444b70cccc2adfdc0f
+      internalID: 1569745943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_52
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 648
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f8509feed2af44eb01185602517966
+      internalID: -1751130521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_53
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 648
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2272d90213ccb94caba2cca11a19bab
+      internalID: 1488764137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_54
+      rect:
+        serializedVersion: 2
+        x: 2908
+        y: 648
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddfd8a892417d54fb0eec281a67233c
+      internalID: -1876048512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_55
+      rect:
+        serializedVersion: 2
+        x: 3230
+        y: 648
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409767d7dc492284c920a915c4533d91
+      internalID: 1948081321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_56
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 648
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a2e103faaef014f946383cf7306704
+      internalID: 1600928041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_57
+      rect:
+        serializedVersion: 2
+        x: 3874
+        y: 648
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f0790d9dc8ca940ba37c00b597b1a5
+      internalID: 81436610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_58
+      rect:
+        serializedVersion: 2
+        x: 4196
+        y: 648
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4210e71a1ddc0249bf0ec5def04d204
+      internalID: 1687995062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_59
+      rect:
+        serializedVersion: 2
+        x: 4518
+        y: 648
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db738bc9492b2e44a33e95f3a97aef6
+      internalID: 539506532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_60
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 326
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c4d9e681ab45b4baffe70c451f5284
+      internalID: -1040817239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_61
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 326
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040d5b47f903bcc43849de414a0bdcab
+      internalID: 44658868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_62
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 326
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04999d0adad4b4f4581272eae1ec6e47
+      internalID: -70368894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_63
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 326
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc3016b36ffc50488c6d8b92b8f7a17
+      internalID: 1911299043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_64
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 326
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65fa88937e9e7c43952aa5433b0a8d2
+      internalID: -454618604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_65
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 326
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6986887e98d00994bb00160fbb74bb30
+      internalID: -537140373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_66
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 326
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36727f176b17c34083a7f367a4d46be
+      internalID: 1124603002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_67
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 326
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bca703e32df51c40b1b8d0b299b524b
+      internalID: 1099278323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_68
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 326
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391831b5752340c40869b325b25c4559
+      internalID: 750889227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_69
+      rect:
+        serializedVersion: 2
+        x: 2908
+        y: 326
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be69b1c5af004142a12cc6cf0c0111f
+      internalID: 1600161377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_75
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 4
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82699a32fb82ba439bffb84baaea08e
+      internalID: 387273399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_76
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 4
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1a2d98cbf786340b4e7c28f63336da
+      internalID: -1533415161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_77
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 4
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad520c101646caa418020be6ec0f5fe8
+      internalID: -1187113968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_78
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 4
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e531b896135148947a88e572eac93de5
+      internalID: 1362994706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Cookie_79
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 4
+        width: 300
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39e264cb8db1b142bd95db8e166982c
+      internalID: -1836982091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Zombie_Cookie_63: 1911299043
+      Zombie_Cookie_9: -1023818148
+      Zombie_Cookie_5: -965297292
+      Zombie_Cookie_49: -1353740047
+      Zombie_Cookie_71: 1922191186
+      Zombie_Cookie_17: -973849495
+      Zombie_Cookie_60: -1040817239
+      Zombie_Cookie_18: -800139091
+      Zombie_Cookie_48: -640922126
+      Zombie_Cookie_84: -411756910
+      Zombie_Cookie_14: -677668773
+      Zombie_Cookie_89: -1979576704
+      Zombie_Cookie_62: -70368894
+      Zombie_Cookie_68: 750889227
+      Zombie_Cookie_25: 657575873
+      Zombie_Cookie_87: -1605602138
+      Zombie_Cookie_86: -28401457
+      Zombie_Cookie_56: 1600928041
+      Zombie_Cookie_11: -1259087807
+      Zombie_Cookie_52: -1751130521
+      Zombie_Cookie_30: 813551981
+      Zombie_Cookie_15: 1672178484
+      Zombie_Cookie_46: -2031798705
+      Zombie_Cookie_6: 2059640081
+      Zombie_Cookie_10: -1643884289
+      Zombie_Cookie_3: -363891077
+      Zombie_Cookie_21: 1810570401
+      Zombie_Cookie_0: 727203549
+      Zombie_Cookie_66: 1124603002
+      Zombie_Cookie_33: -379734441
+      Zombie_Cookie_22: 1002695504
+      Zombie_Cookie_85: -68667090
+      Zombie_Cookie_55: 1948081321
+      Zombie_Cookie_4: 1878146867
+      Zombie_Cookie_43: 1533085459
+      Zombie_Cookie_16: -548131366
+      Zombie_Cookie_78: 1362994706
+      Zombie_Cookie_26: -173915683
+      Zombie_Cookie_36: 92043583
+      Zombie_Cookie_53: 1488764137
+      Zombie_Cookie_23: 2060673331
+      Zombie_Cookie_29: -9717865
+      Zombie_Cookie_35: -1471657675
+      Zombie_Cookie_20: 605491482
+      Zombie_Cookie_38: -1849285587
+      Zombie_Cookie_45: 392872626
+      Zombie_Cookie_42: 595314626
+      Zombie_Cookie_64: -454618604
+      Zombie_Cookie_72: 857706706
+      Zombie_Cookie_65: -537140373
+      Zombie_Cookie_31: 429599455
+      Zombie_Cookie_59: 539506532
+      Zombie_Cookie_50: 1578657452
+      Zombie_Cookie_37: -1307334757
+      Zombie_Cookie_12: 218473105
+      Zombie_Cookie_19: 1017721024
+      Zombie_Cookie_40: 643935314
+      Zombie_Cookie_34: 899570995
+      Zombie_Cookie_73: -585017506
+      Zombie_Cookie_77: -1187113968
+      Zombie_Cookie_44: 1276746545
+      Zombie_Cookie_80: 580066418
+      Zombie_Cookie_54: -1876048512
+      Zombie_Cookie_58: 1687995062
+      Zombie_Cookie_24: -460362472
+      Zombie_Cookie_28: -1908755129
+      Zombie_Cookie_61: 44658868
+      Zombie_Cookie_82: 1432957733
+      Zombie_Cookie_88: 1356919290
+      Zombie_Cookie_47: 964284308
+      Zombie_Cookie_32: -1039092811
+      Zombie_Cookie_83: 1434152091
+      Zombie_Cookie_8: 1862053993
+      Zombie_Cookie_51: 1569745943
+      Zombie_Cookie_41: 2074051470
+      Zombie_Cookie_7: -2124361855
+      Zombie_Cookie_57: 81436610
+      Zombie_Cookie_67: 1099278323
+      Zombie_Cookie_1: 951590882
+      Zombie_Cookie_69: 1600161377
+      Zombie_Cookie_13: -329608626
+      Zombie_Cookie_39: -578774961
+      Zombie_Cookie_76: -1533415161
+      Zombie_Cookie_74: -1304519462
+      Zombie_Cookie_79: -1836982091
+      Zombie_Cookie_2: -1173117326
+      Zombie_Cookie_70: -1116228121
+      Zombie_Cookie_81: -118682108
+      Zombie_Cookie_27: 828484871
+      Zombie_Cookie_75: 387273399
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
